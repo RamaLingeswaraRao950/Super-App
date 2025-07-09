@@ -1,12 +1,10 @@
 # 🌟 Super App
 
-A modern, multi-functional, and fully responsive **React-based** web application that combines entertainment, real-time weather, news, and utility widgets — all in a beautifully designed interface.
-
-🌐 **Live Demo**: [https://super-app-gules-six.vercel.app/](https://super-app-gules-six.vercel.app/)
+A modern, multi-functional, fully responsive, and highly interactive dashboard web app that combines entertainment, real-time weather, news, and utility widgets — all in a beautifully designed interface.
 
 ## 🌄 Description :--
 
-A highly interactive dashboard web app where users can:
+This project offers a rich interactive user experience where users can:
 - Create an account
 - Choose their entertainment preferences
 - View curated content suggestions
@@ -28,6 +26,7 @@ A highly interactive dashboard web app where users can:
 
 ## 🛠️ Technologies Used :--
 
+⚡ Vite.js
 ⚛️ React.js  
 💅 CSS3  
 🌐 HTML5  
