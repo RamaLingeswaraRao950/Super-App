@@ -25,13 +25,12 @@ A modern, multi-functional, fully responsive, and highly interactive dashboard w
 
 ## 🛠️ Technologies :--
 
-⚡ Vite.js
-
-⚛️ React.js  
-💅 CSS3  
-🌐 HTML5  
-🧠 JavaScript (ES6+)  
-🚀 Deployed on Vercel
+⚡ **Vite.js** – Fast build tool and dev server  
+⚛️ **React.js** – UI library  
+💅 **CSS3** – Styling  
+🌐 **HTML5** – Markup  
+🧠 **JavaScript (ES6+)** – Application logic  
+🚀 **Vercel** – Deployment platform
 
 ## 🚀 Usage :--
 
