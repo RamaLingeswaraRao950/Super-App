@@ -1,6 +1,6 @@
 # 🌟 Super App
 
-A modern, multi-functional, fully responsive, and highly interactive dashboard web app that combines entertainment, real-time weather, news, and utility widgets — all in a beautifully designed interface.
+A modern, multi-functional, fully responsive, and highly interactive dashboard web app that combines entertainment, real-time weather, news, and utility widgets-all in a beautifully designed interface.
 
 ## 🌄 Description :--
 
