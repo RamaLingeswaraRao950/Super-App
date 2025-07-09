@@ -4,7 +4,6 @@ A modern, multi-functional, fully responsive, and highly interactive dashboard w
 
 ## 🌄 Description :--
 
-This project offers a rich interactive user experience where users can:
 - Create an account
 - Choose their entertainment preferences
 - View curated content suggestions
@@ -24,9 +23,10 @@ This project offers a rich interactive user experience where users can:
 📒 Yellow sticky notepad for writing notes  
 🎨 Visually vibrant and responsive layout
 
-## 🛠️ Technologies Used :--
+## 🛠️ Technologies :--
 
 ⚡ Vite.js
+
 ⚛️ React.js  
 💅 CSS3  
 🌐 HTML5  
